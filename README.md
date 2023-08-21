@@ -1,2 +1,2 @@
 # coliMUTI
-E coli survival Mouse UTI
+*E. coli* survival Mouse UTI
